@@ -1,0 +1,23 @@
+14:00:11,521 DEBUG TestBase<strong>{1}</strong>:47 - Browser NameChrome
+14:00:15,356 DEBUG TestBase<strong>{1}</strong>:63 - Driver Instance Created
+14:00:20,253 DEBUG TestBase<strong>{1}</strong>:70 - Application Url: https://www.freecrm.com/
+14:00:20,332 DEBUG TestBase<strong>{1}</strong>:37 - I am in LoginPageTitleTest
+14:00:20,394 DEBUG TestBase<strong>{1}</strong>:40 - Assertion for Title is Passed
+14:00:21,255 DEBUG TestBase<strong>{1}</strong>:47 - Browser NameChrome
+14:00:23,710 DEBUG TestBase<strong>{1}</strong>:63 - Driver Instance Created
+14:00:28,086 DEBUG TestBase<strong>{1}</strong>:70 - Application Url: https://www.freecrm.com/
+14:00:28,090 DEBUG TestBase<strong>{1}</strong>:46 - CRMLogo Image Test
+14:00:28,213 DEBUG TestBase<strong>{1}</strong>:49 - Assertion for CRMLogo is passed
+14:00:29,076 DEBUG TestBase<strong>{1}</strong>:47 - Browser NameChrome
+14:00:31,434 DEBUG TestBase<strong>{1}</strong>:63 - Driver Instance Created
+14:00:36,291 DEBUG TestBase<strong>{1}</strong>:70 - Application Url: https://www.freecrm.com/
+14:00:42,798 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+14:00:42,800 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+14:00:42,802 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:00:42,807 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:00:42,808 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Pallavi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:00:43,321 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+14:00:43,322 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+14:00:43,322 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:00:43,323 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:00:43,323 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Pallavi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
